@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Fun facts
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henri2h)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Henri2h/henri2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
