@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[moved to gitlab](https://gitlab.com/henri2h)
+A random guy on the internet. 
+
+My main repo is on [gitlab](https://gitlab.com/henri2h)
+
+By the way do you know [Matrix](https://matrix.org) ?
 
 ### Fun facts
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henri2h)](https://github.com/anuraghazra/github-readme-stats)
